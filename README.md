@@ -6,5 +6,6 @@
 <li>her sayfa için çalan bir playlist</li>
 <li>ağır abi arabaları için ayrı sayfa</li>
 <li>silahlar için yatay scroll vitrin ya da farklı sayfa</li>
+<li>mümkümse güzel kaplamalı arkaplan ve tasarım</li>
 
 </ul>
