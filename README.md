@@ -10,4 +10,17 @@
 <p><a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/videos">Fireship</a></p>
 <p><a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos">Fun Fun Function</a></p>
 <p><a href="https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw/videos">Ania Kubow</a></p>
-
+<br>
+<h3>Subjects</h3>
+<ul>
+  <li>Component</li>
+  <li>Props</li>
+  <li>State</li>
+  <li>Hooks</li>
+  <li>VDOM and DOM</li>
+  <li>One-way data flow</li>
+  <li>Context API</li>
+  <li>React Plugins</li>
+  <li>Debugging</li>
+  <li>Testing</li>
+</ul>
